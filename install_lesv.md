@@ -11,9 +11,6 @@ Linux zyserver 4.15.0-112-generic #113~16.04.1-Ubuntu SMP Fri Jul 10 04:37:08 UT
 Note that in this test we get very nice results. The precision, recall, and f1 metrics are 95%, 97% and 96% respectively!
 
 
-[TOC]
-
-
 
 ## 1. Working Directory
 
