@@ -186,7 +186,7 @@ $ conda deactivate
 ```shell
 $ pwd
 /home/zyserver/chenying/my_sv
-$ git clone https://github.com/xiaochuanle/necatsv.git
+$ git clone https://github.com/xiaochuanle/lesv.git
 $ cd lesv/src/
 $ make -j
 $ cd ../Linux-amd64/bin
