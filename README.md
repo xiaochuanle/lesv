@@ -8,13 +8,9 @@ Details can be found in the [Benchmarks](#Benchmarks) below.
 `lesv` currently only supports Deletions and Insertions Structural Variants. More types of SVs will be implemented subsequently.
 
 
-[TOC]
-
-
-
 ## Installation
 
-Installation and usage of `lesv` can be found here.
+Installation and usage of `lesv` can be found [here](https://github.com/xiaochuanle/lesv/blob/master/install_lesv.md).
 
 ## Benchmarks
 
